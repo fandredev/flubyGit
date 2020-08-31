@@ -19,7 +19,7 @@
 </p>
 
 > 
- > <img align='left' src="https://icon-icons.com/icons2/2415/PNG/48/redux_original_logo_icon_146365.png" width="42px"><strong><p>Certainly, my biggest difficulty is understanding how this guy works there, I'm still on the way to learning and I hope to learn him well to complete my knowledge with React.JS</p></strong>
+ > <img align='left' src="https://icon-icons.com/icons2/2415/PNG/48/redux_original_logo_icon_146365.png" width="42px"><strong><p>Certainly, it was the biggest difficulty of my life to understand how Flux / Redux works. Fortunately, I got over it and today I use it in my projects with Redux/Saga/Thunk/Logger.</p></strong>
 > 
  > <img align='left' src="https://icon-icons.com/icons2/2107/PNG/72/file_type_node_icon_130301.png" width="42px"><strong><p>I really like this stack, it allows me to create API's Rest and use this essential Javascript feature. I'm walking in Learning Back-End mainly using Express.JS / Adonis.JS.</p></strong>
 > 
