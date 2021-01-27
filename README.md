@@ -6,10 +6,15 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/flubyGit)
 
 
-
 ## I'm usually using ...
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=flubyGit&theme=vision-friendly-dark)
+
+<!--START_SECTION:waka-->
+<a href="https://wakatime.com">
+ <img width="60%" src="https://wakatime.com/share/@3a2daa8f-75cf-4b43-8c25-6746957ff8a9/2c555a59-fb42-4375-b1ec-79117931e167.png" />
+</a>
+<!--END_SECTION:waka-->
 
 ## My Favorites ...
 <p>
