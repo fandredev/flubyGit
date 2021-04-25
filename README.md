@@ -31,7 +31,7 @@
   
 </p>
 <hr>
-<img align='left' src="https://icon-icons.com/icons2/2107/PNG/72/file_type_node_icon_130301.png" width="42px"><strong><p style="text-align:right">&nbsp;I really like this stack, it allows me to create API's Rest and use this essential Javascript feature. I'm walking in Learning Back-End mainly using Express.JS / Adonis.JS.</p></strong>
+<img align='left' src="https://img2.gratispng.com/20180503/pgq/kisspng-angularjs-data-binding-web-application-angular-5aeada2dc26d59.2056113015253407177964.jpg" width="42px"><strong><p style="text-align:right">&nbspI currently work with this incredible technology and I really like to use it for professional projects on the front end.</p></strong>
 
 <hr>
 <img align='left' src="https://icon-icons.com/icons2/2108/PNG/72/react_icon_130845.png" width="42px"><strong><p style="text-align:right">&nbsp;I work most today is in React.JS/Native, incredible view library with JS / TS that allows you to create layouts using the concept of Single Page Application.</p></strong>
