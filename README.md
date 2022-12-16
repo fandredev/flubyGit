@@ -22,20 +22,6 @@
 
 <!--END_SECTION:waka-->
 
-## My Favorites ...
-<p>
- 
-<img align='left' src="https://cdn.icon-icons.com/icons2/2415/PNG/48/typescript_plain_logo_icon_146316.png" width="42px"> <strong><p style="text-align:right">&nbsp;Typescript is my favorite superset in the web world and I use it whenever I can. The Document and the Intelligence behind the Speech for JS makes me really satisfied to use</p></strong>
-<hr>
-<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <strong><p style="text-align:right">&nbsp;I really like the Javascript language and that's what made me enchanted by programming.</p></strong>
-  
-</p>
-<hr>
-<img align='left' src="https://img2.gratispng.com/20180503/pgq/kisspng-angularjs-data-binding-web-application-angular-5aeada2dc26d59.2056113015253407177964.jpg" width="42px"><strong><p style="text-align:right">&nbspI currently work with this incredible technology and I really like to use it for professional projects on the front end.</p></strong>
-
-<hr>
-<img align='left' src="https://icon-icons.com/icons2/2108/PNG/72/react_icon_130845.png" width="42px"><strong><p style="text-align:right">&nbsp;I work most today is in React.JS/Native, incredible view library with JS / TS that allows you to create layouts using the concept of Single Page Application.</p></strong>
- 
 
 <!--
 **flubyGit/flubyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
