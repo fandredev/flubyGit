@@ -5,14 +5,6 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-196-blue)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/flubyGit)
 
-## GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=flubyGit&show_icons=true&theme=midnight-purple&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=flubyGit&theme=midnight-purple">
-</p>
-
-
 ## I'm usually using ...
 
 <!--START_SECTION:waka-->
